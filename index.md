@@ -30,12 +30,12 @@
             - [4.2.2.1 Datenbank für gesprochenes Deutsch (DGD) (IDS Mannheim 2014)](#datenbank-für-gesprochenes-deutsch-(dgd)-(ids-mannheim-2014))
             - [4.2.2.2 TalkBank (MacWhinney & Wagner 2010)](#talkbank-(macwhinney-&-wagner-2010))
             - [4.2.2.3 EXMARaLDA: Audio- und Videoannotation (Schmidt 2004)](#exmaralda:-audio--und-videoannotation-(schmidt-2004))
-            - [4.2.2.4 elan (Eudico Linguistik Annotator): Videoannotation (Wittenburg u. a. 2006)](#elan-(eudico-linguistik-annotator):-videoannotation-(wittenburg-u.-a.-2006))
+            - [4.2.2.4 elan (Eudico Linguistik Annotator): Videoannotation (Wittenburg u.a. 2006)](#elan-(eudico-linguistik-annotator):-videoannotation-(wittenburg-u.-a.-2006))
     * [4.3 Automatische Text-Annotation auf Satz- und Wortebene](#automatische-text-annotation-auf-satz--und-wortebene)
         + [4.3.1 Forschungsinteressen](#forschungsinteressen)
         + [4.3.2 Werkzeuge](#werkzeuge)
             - [4.3.2.1 Language Resource Switchboard: Suchmaschine für Textwerkzeuge](#language-resource-switchboard:-suchmaschine-für-textwerkzeuge)
-            - [4.3.2.2 Linguistische Mehrebenen-Annotation und Visualisierung mit WebLicht (Hinrichs u. a. 2010)](#linguistische-mehrebenen-annotation-und-visualisierung-mit-weblicht-(hinrichs-u.-a.-2010))
+            - [4.3.2.2 Linguistische Mehrebenen-Annotation und Visualisierung mit WebLicht (Hinrichs u.a. 2010)](#linguistische-mehrebenen-annotation-und-visualisierung-mit-weblicht-(hinrichs-u.-a.-2010))
     * [4.4 Manuelle Text-Annotation auf Satz- und Wortebene](#manuelle-text-annotation-auf-satz--und-wortebene)
         + [4.4.1 Forschungsinteressen](#forschungsinteressen)
         + [4.4.2 Werkzeuge](#werkzeuge)
@@ -125,7 +125,7 @@ ein Thema festlegt.
 
 Annotation is one of the most important scholarly primitives in the humanities […]. Annotation tools can demonstrate,
 perhaps like no other tool can, the usefulness of bringing the digital into the
-humanities. [(Meister 2015 15:20 min)](https://www.zotero.org/google-docs/?TmTf90)
+humanities. [(Meister 2015 15:20 min)]
 
 ## 3.1 Annotation: Anreicherung mit Zusatzinformation
 
@@ -134,7 +134,7 @@ weniger allgemein, "the activity of making information about a digital object ex
 metadata or keywords to a digitized representation or to an annotation file associated with it". (dhtaxonomy/TaDiRAH
 2014). Annotation ist also die Anreicherung von Information mit Zusatzinformation und als solches eine zentrale
 geisteswissenschaftliche Methode, die sehr gut auf digital vorliegende Objekte angewandt werden
-kann [(vgl. Schmunk u. a. 2014)](https://www.zotero.org/google-docs/?kwC1pQ). Sowohl Metadaten, also z. B. die Angabe
+kann [(vgl. Schmunk u.a. 2014)]. Sowohl Metadaten, also z. B. die Angabe
 des Autors eines Buches, als auch sehr kleinteilige Zusatzinformationen wie die Wortart eines einzelnen Wortes sind
 Annotationen in diesem Sinne. Annotationen können automatisch oder manuell durchgeführt werden. Automatische
 Annotationswerkzeuge sind z. B. Lemmatisierer, die jedem Wort in einem Text die entsprechende Grundform zuordnen.
@@ -146,22 +146,22 @@ Annotation bietet es sich an, gezielt die Teile zu annotieren, die für die Fors
 Strategien, wie relevante Teile der Primärdaten identifiziert werden können, hängen dabei vom Medium ab. Aus Sicht der
 Geisteswissenschaften ist Annotation nichts Neues. Im Gegenteil, Notizen und Anmerkungen zu einem Text festzuhalten ist
 ein grundlegendes traditionelles (geistes-)wissenschaftliches Vorgehen, eines der "scholarly
-primitives" [(Unsworth 2000: 1)](https://www.zotero.org/google-docs/?X9nX2S). Dabei spielt es keine Rolle, ob sie direkt
+primitives" [(Unsworth 2000: 1)]. Dabei spielt es keine Rolle, ob sie direkt
 an den Rand in ein Buch geschrieben oder in einem extra dafür angelegten Notizbuch oder Zettelkasten gesammelt werden.
 Auch Unterstreichungen oder sonstige Hervorhebungen zählen zu diesen gebräuchlichen und analogen Formen der
-Annotation [(vgl. Brockman & Digital Library Federation 2001: 7)](https://www.zotero.org/google-docs/?YPSU5Q).
+Annotation [(vgl. Brockman & Digital Library Federation 2001: 7)].
 Zusatzinformationen können sich auf ein Digitalisat im Ganzen oder auf Teile davon beziehen. Eher objektive
 Zusatzinformationen wie Autor und Erscheinungsjahr bei Büchern, Künstler und Erschaffungsjahr bei Kunstwerken oder
 Fundstelle und vermutliches Alter bei archäologischen Funden werden dabei als "Metadaten" bezeichnet:
 "Metadata is structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or
 manage an information resource. Metadata is often called data about data or information about
-information." [(National Information Standards Organization (U.S.) 2004: 1)](https://www.zotero.org/google-docs/?iMPGCa)
+information." [(National Information Standards Organization (U.S.) 2004: 1)]
 Eher interpretatorische Informationen wie Wortart, Aussage, kultureller Stellenwert o. Ä. werden hingegen als
 Annotationen bezeichnet. Annotation: Auszeichnung linguistischer Informationen i. d.R. mithilfe einer Mark-up-Sprache.
 Hierbei werden dem Primärtext interpretative Analysen auf unterschiedlichen linguistischen Ebenen (Phonetik, Syntax,
 Semantik, Pragmatik, Diskurs, Stil, Lexik) hinzugefügt. Besondere Annotationen sind Fehlerannotationen in Lernerkorpora
 sowie die Transkription gesprochener Sprache in
-Sprachkorpora. [(Eintrag „Annotation“: Glück & Rödel 2016)](https://www.zotero.org/google-docs/?uJLSel)
+Sprachkorpora. [(Eintrag „Annotation“: Glück & Rödel 2016)]
 Dabei ist zu beachten, dass manche Definitionen, wie z. B. die oben angeführte von TaDiRAH, auch Metadaten als (eine
 Form der) Annotation betrachten.
 
@@ -172,14 +172,15 @@ Kategorienbildung im Sinne der Erstellung eines Kategoriensystems, zum anderen e
 Kategorien in den annotierten Daten explizit zu machen. Vorhandene Kategorien können sich auf alle Dimensionen von Text
 beziehen, zum Beispiel:
 
-| Beispiel                                             	| Dimension der Zusatzinformation 	| Bezugsgröße                                      	| Beispiel für Kategoriensystem                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| Beispiel                                                | Dimension der Zusatzinformation    | Bezugsgröße                                        | Beispiel für Kategoriensystem                                                                                                                                                                                                                                                                                                                                                                                                            |
 |------------------------------------------------------	|---------------------------------	|--------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Autor eines Werks Veröffentlichungsdatum eines Werks 	| bibliographisch                 	| konkretes physisches oder nativ digitales Objekt 	| [Dublin Core](https://www.dublincore.org/):  * _[creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/creator/)_ * _[date](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/date/)_  [TEI](https://tei-c.org/) P5  * _[author](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)_ * _[date](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html)_ 	|
-| Kapitel Zeilenumbruch                                	| formale Struktur                	| Text                                             	| TEI:  * [div-Element mit Attribut type= "chapter"](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) * [lb-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-lb.html)                                                                                                                                                                                                                                	|
-| Pergament zerrissene Seite                           	| materiale Beschaffenheit        	| konkretes physisches Objekt                      	| TEI:  * [material-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-objectDesc.html) * [condition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-condition.html)                                                                                                                                                                                                                                   	|
-| verzierte Initiale Schriftfarbe                      	| ästhetische Beschaffenheit      	| konkretes physisches oder nativ digitales Objekt 	| TEI:  * [decoNote-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-decoNote.html) * [rendition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-rendition.html)                                                                                                                                                                                                                                     	|
-| Exposition, Konflikt, Klimax                         	| Erzählstruktur                  	| Text                                             	| TEI:  * [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                            	|
-| Protagonist                                          	| Figurenanalyse                  	| Text                                             	| TEI:  * [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                            	|
+| Autor eines Werks Veröffentlichungsdatum eines Werks    | bibliographisch                    | konkretes physisches oder nativ digitales Objekt    | [Dublin Core](https://www.dublincore.org/):  * _[creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/creator/)_ * _[date](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/date/)_  [TEI](https://tei-c.org/) P5  * _[author](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)_ * _[date](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html)_    |
+| Kapitel Zeilenumbruch                                    | formale Struktur                    | Text                                                | TEI:  * [div-Element mit Attribut type= "chapter"](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) * [lb-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-lb.html)                                                                                                                                                                                                                                    |
+| Pergament zerrissene Seite                            | materiale Beschaffenheit            | konkretes physisches Objekt                        | TEI:  * [material-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-objectDesc.html) * [condition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-condition.html)                                                                                                                                                                                                                                    |
+| verzierte Initiale Schriftfarbe                        | ästhetische Beschaffenheit        | konkretes physisches oder nativ digitales Objekt    | TEI:  * [decoNote-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-decoNote.html) * [rendition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-rendition.html)                                                                                                                                                                                                                                        |
+| Exposition, Konflikt, Klimax                            | Erzählstruktur                    | Text                                                | TEI:  * [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                                |
+| Protagonist                                            | Figurenanalyse                    | Text                                                | TEI:  * [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                                |
+
 [mögliche Annotationskategorien; unvollständige Beispielliste]
 
 ### 3.2.1 Kategorienbildung durch Annotation
@@ -218,7 +219,7 @@ ausgereiftes Kategoriensystem. Die Verfeinerungen der Basiskategorien im Forschu
 die folgende Grafik:
 
 ![](2.png)
-[Kategoriensystem "HeuTex" [(Bender & Müller 2020: 23)](https://www.zotero.org/google-docs/?R2Tf7f)]
+[Kategoriensystem "HeuTex" [(Bender & Müller 2020: 23)]
 
 ### 3.2.2 Kategorisierung durch Annotation
 
@@ -255,7 +256,6 @@ was ridiculous and absurd. It is also worth noting that one feature of hegemonic
 powerful rhetorical strategy. With this sort of analysis, we are not only seeing the presence of discourses in texts,
 but we are also uncovering evidence of how they are repeatedly presented as the ‘right’ way of viewing the world.
 
-
 # 4 Annotationsarten und -werkzeuge
 
 ## 4.1 Editionsphilologische Annotation für Text, Bild, Noten: Metadaten, Struktur, Klassifizierung
@@ -267,10 +267,10 @@ Grundlegende Themen der Editionsphilologie (Editionswissenschaften) umfassen z. 
 * Textkonstitution: Erstellung einer Ausgabe eines Werks auf der Grundlage einer oder mehrerer bestimmter Textfassungen
 * Textgenese: Dokumentation der Entstehung, z. B. durch Gegenüberstellung verschiedener Entwicklungsstufen eines Textes
 * Textrekonstruktion: Wiederherstellung eines "nur entstellt überlieferten Originals [...] am Kreuzungspunkt von
-  Entstehungs- und Überlieferungsgeschichte" [(Bohnenkamp-Renken 2002)](https://www.zotero.org/google-docs/?zJ0Cde)
+  Entstehungs- und Überlieferungsgeschichte" [(Bohnenkamp-Renken 2002)]
 * Materialität: Dokumentation der materialen Beschaffenheit (verschiedener Fassungen) eines Werks Ein zentrales Anliegen
   der Editionswissenschaft ist "einen gesicherten Text
-  herzustellen" [(Seiffert 2005: 162)](https://www.zotero.org/google-docs/?jbJbJQ), woraus sich die
+  herzustellen" [(Seiffert 2005: 162)], woraus sich die
   editionswissenschaftlichen und editionstheoretischen Forschungsinteressen, Methoden und Modelle ableiten. Das
   übergeordnete Forschungsinteresse verfolgt dabei immer das Ziel, die Bedingungen zu erforschen und zu schaffen, die es
   erlauben, schriftlich tradierte Kulturerzeugnisse auf angemessene Weise zugänglich zu machen. Die Sicherung eines
@@ -278,12 +278,12 @@ Grundlegende Themen der Editionsphilologie (Editionswissenschaften) umfassen z. 
   allen verfügbaren Materials, das zur Herstellung eines gesicherten Textes beiträgt. Diese Vorgehensweise erfordert
   auch eine Auseinandersetzung mit dem zugrundeliegenden Textbegriff bzw. -modell, speziell hinsichtlich der Frage, ob
   ein gesicherter Text im editionsphilologischen Sinne ein finales Produkt oder die Darstellung eines (Ausschnittes
-  eines) Entstehungsprozesses ist [(vgl. Nutt-Kofoth 2012: 21)](https://www.zotero.org/google-docs/?Cwk9Cr). Es macht
+  eines) Entstehungsprozesses ist [(vgl. Nutt-Kofoth 2012: 21)]. Es macht
   einen großen Unterschied, ob ältere Literatur oder neuere Literatur ediert werden soll. Ältere Literatur liegt
   normalerweise nur in voneinander abweichenden und teilweise unvollständig erhaltenen Abschriften bzw. Lesarten vor.
   Einen vom ursprünglichen Autor autorisierten Text gibt es nicht. Hier ist ein Ziel des editionswissenschaftlichen
   Arbeitens, "diesen aus den oftmals über Jahrhunderte hinweg überlieferten, häufig fehlerhaften oder willkürlich
-  veränderten Abschriften zu rekonstruieren" [(Plachta 2013: 27)](https://www.zotero.org/google-docs/?mItaRL).
+  veränderten Abschriften zu rekonstruieren" [(Plachta 2013: 27)].
   Editionsprojekte neuerer Texte können hingegen eher auf vom Autor autorisierte Fassungen zurückgreifen, weshalb die
   Rekonstruktion eines "originalen" Textes nicht im Zentrum steht. Stattdessen rückt die Entstehungsgeschichte des
   autorisierten Textes in den Mittelpunkt des Interesses. In jedem Fall müssen die dem "gesicherten" Text
@@ -301,7 +301,7 @@ dabei die letzte vom Autor autorisierte Fassung, die Ausgabe erster Hand die ers
 Fassung. Die Ansichten, welcher Fassung mehr Authentizität zuzuschreiben ist, sind unterschiedlich. Die Herausgeber der
 Weimarer Goethe-Ausgabe wählten die Ausgabe letzter Hand als Grundlage, weil sie dem Willen Goethes am ehesten
 entspräche und ihr somit die größte Autorität zukomme: "Für den Druck der Werke hat er selbst die Norm gegeben in der
-Ausgabe letzter Hand." [(Suphan 2005: 51)](https://www.zotero.org/google-docs/?sK1SWk)
+Ausgabe letzter Hand." [(Suphan 2005: 51)]
 Neben der Grundlage für die Edition muss auch entschieden werden, welcher Adressatenkreis von der Edition erreicht
 werden soll. Generell unterscheidet die Editionswissenschaft drei Editionstypen: Die *historisch-kritische Ausgabe* hat
 den höchsten Komplexitätsgrad und Vollständigkeitsanspruch. Die *Studienausgabe* rückt den edierten Text etwas mehr in
@@ -323,16 +323,16 @@ Bei der Edition älterer Texte stehen handschriftliche Abschriften im Mittelpunk
 überspannenden Zeitraum erstellt worden sein und je nach Überlieferungslage auch nur in Fragmenten vorliegen. So sind
 der Forschung z. B. 16 Handschriften und 72 Fragmente von Wolframs von Eschenbachs zwischen 1200 und 1210 entstandenem *
 Parzival*-Roman bekannt (Stand 2020), die zwischen dem 13. und 15. Jahrhundert
-entstanden [(vgl. Stolz 2014, 2021 (speziell den Punkt „Handschriftenverzeichnis“))](https://www.zotero.org/google-docs/?aSiX1g)
+entstanden [(vgl. Stolz 2014, 2021 (speziell den Punkt „Handschriftenverzeichnis“))]
 . Da die Abschriften eines Werkes unterschiedlichen Grundlagen folgen (können), ist eine editionswissenschaftliche
 Aufgabe die Identifizierung von unterschiedlichen Textfassungen, denen die einzelnen Textzeugen zugeordnet werden
-können. Das Parzival-Projekt[(Stolz 2021)](https://www.zotero.org/google-docs/?bXjKsM) geht von vier Textfassungen aus,
+können. Das Parzival-Projekt[(Stolz 2021)] geht von vier Textfassungen aus,
 die mit Bezug zu den ihnen am nächsten stehenden Handschriften als *D, *m, *G und *T bezeichnet werden. Dabei zeigt der
 Asterisk (*) an, dass es sich um eine konstituierte Textfassung handelt und der Buchstabe verweist auf die Handschrift (
 vgl. auch das [Handschriftenverzeichnis](https://www.parzival.unibe.ch/hsverz.html) des Parzival-Projekts).
 
 ![](5.png)
-[Parzival-Projekt, Universität Bern: Fassungen im Vergleich. [(vgl. Stolz 2021)](https://www.zotero.org/google-docs/?Z1BVAD) Auf der [Originalseite](https://www.parzival.unibe.ch/editionen.html) werden 4 Fassungen nebeneinander dargestellt. Der besseren Lesbarkeit halber werden hier nur zwei wiedergegeben.]
+[Parzival-Projekt, Universität Bern: Fassungen im Vergleich. [(vgl. Stolz 2021)] Auf der [Originalseite](https://www.parzival.unibe.ch/editionen.html) werden 4 Fassungen nebeneinander dargestellt. Der besseren Lesbarkeit halber werden hier nur zwei wiedergegeben.]
 
 Abweichungen von der konstituierten Textfassung werden in Apparat 2 im unteren Teil der Seite verzeichnet. Die Siglen
 sind mit Links hinterlegt, die direkt auf eine parallele Darstellung von Digitalisat und Transkription führen.
@@ -351,10 +351,10 @@ bewältigenden Aufgaben vergleichbar. Ähnlich wie bei der Edition neuerer und �
 zu sichten und je nach Zielstellung die Unterschiede zwischen diesen Fassungen nachvollziehbar zu machen, in anderen
 Worten also "durch die Dokumentation der Entstehungs- und Überlieferungsgeschichte des Werks in Verbindung mit einer
 kritischen Sichtung aller erreichbaren
-Überlieferungsträger" [(Allroggen 2011 (§3 der Editionsrichtlinien für Notenbände))](https://www.zotero.org/google-docs/?Umcfaz)
+Überlieferungsträger" [(Allroggen 2011 (§3 der Editionsrichtlinien für Notenbände))]
 eine historisch-kritische Ausgabe anstreben. Das Projekt "Carl-Maria-von-Weber-Gesamtausgabe" strebt an, sämtliche "
 Kompositionen, Briefe, Tagebücher und Schriften in einer wissenschaftlich-kritischen Gesamtausgabe
-vorzulegen" [(Allroggen 2011 (Projektbeschreibung))](https://www.zotero.org/google-docs/?rv8MRc) , verbindet also die
+vorzulegen" [(Allroggen 2011 (Projektbeschreibung))](, verbindet also die
 Text- und Notenedition.
 
 ![](7.png)
@@ -362,7 +362,7 @@ Text- und Notenedition.
 
 ### 4.1.2 Werkzeuge
 
-#### 4.1.2.1 TextGrid-Lab [(Neuroth 2015)](https://www.zotero.org/google-docs/?pRhMZZ)
+#### 4.1.2.1 TextGrid-Lab [(Neuroth 2015)]
 
 Das TextGrid-Lab ist eine Komponente der virtuellen Forschungsumgebung [TextGrid](https://textgrid.de/), die für die
 Arbeit mit Text- und XML-Dateien optimiert ist. Obwohl der prototypische Nutzer eher editionsphilologische
@@ -396,12 +396,12 @@ Goffmansche Interaktionsanalyse), der Linguistik (z. B. Gesprochene-Sprache-Fors
 Ethnologie (Ethnographie der Kommunikation), der Philosophie (z. B. Gebrauchstheorie der Bedeutung, Gricesche Pragmatik,
 Sprechakttheorie und Foucaultsche Diskursanalyse) und der Psychologie (Organon-Modell, Tätigkeitstheorie, Untersuchung
 der nonverbalen Kommunikation und von
-Interaktionssystemen)" [(Deppermann u. a. 2000: 1)](https://www.zotero.org/google-docs/?PtBntk). Auch wenn sich daraus
+Interaktionssystemen)" [(Deppermann u.a. 2000: 1)]. Auch wenn sich daraus
 entstandenen Ansätze, z. B. *ethnomethodologische
-Konversationsanalyse *[(vgl. z. B. Sidnell 2013)](https://www.zotero.org/google-docs/?KoWltE), *linguistische
-Gesprächsanalyse *[(vgl. z. B. Brinker u. a. 2000; Deppermann 2008)](https://www.zotero.org/google-docs/?jQUM51) und *(
+Konversationsanalyse *[(vgl. z. B. Sidnell 2013)], *linguistische
+Gesprächsanalyse *[(vgl. z. B. Brinker u.a. 2000; Deppermann 2008)] und *(
 funktional-pragmatische) Diskursanalyse*, zum Teil stark voneinander
-unterscheiden [(vgl. z. B. Galinski 2004)](https://www.zotero.org/google-docs/?LqSMX1), so ist ihnen allen ein
+unterscheiden [(vgl. z. B. Galinski 2004)], so ist ihnen allen ein
 empirischer Umgang mit gesprochener Sprache gemeinsam. Die Erstellung eigener Gesprächskorpora ist sehr aufwendig: Nicht
 nur müssen die Teilnehmer zustimmen, dass Gespräche aufgezeichnet, (in Teilen) veröffentlicht und wissenschaftlich
 ausgewertet werden. Die dazu notwendige technische Ausrüstung muss ebenfalls zur Verfügung stehen und bedient werden
@@ -415,12 +415,12 @@ Fragestellungen ausreichend sein, die sich eher auf die Lexik stützen. Sollen j
 gesprochener Sprache ebenfalls berücksichtigt werden, müssen diese auch in der Transkription erfasst werden. Dies
 betrifft z. B. prosodische Elemente wie "der Tonhöhenverlauf gesprochener Sprache in der Zeit, Lautstärke, Länge, Pause,
 sowie die damit zusammenhängenden komplexeren Phänomene Sprechgeschwindig- keit/Tempo und
-Rhythmus" [(Selting 1995: 1)](https://www.zotero.org/google-docs/?MmrEbq). Das im Bereich der linguistischen
+Rhythmus" [(Selting 1995: 1)]. Das im Bereich der linguistischen
 Gesprächsanalyse entwickelte Transkriptionsystem GAT2 (Gesprächsanalytisches Transkriptionssystem) unterscheidet daher
-zwischen Minimal-, Basis- und Feintranskript [(vgl. Selting & Auer 2009)](https://www.zotero.org/google-docs/?XVuqNR).
+zwischen Minimal-, Basis- und Feintranskript [(vgl. Selting & Auer 2009)].
 Das im Bereich der funktional-pragmatischen Diskursanalyse entwickelte Transkriptionssystem HIAT (Halbinterpretative
 Arbeitstranskriptionen) folgt ähnlichen
-Prinzipien [(vgl. Rehbein u. a. 2004)](https://www.zotero.org/google-docs/?SFrNWM).
+Prinzipien [(vgl. Rehbein u.a. 2004)].
 
 ### 4.2.2 Ressourcen und Werkzeuge
 
@@ -432,15 +432,14 @@ auf der Webseite mitsamt Metadaten und Annotationen durchsucht und analysiert we
 
 ![](11.png)
 [Suchanfrage nach Lemma "Apfel" im *Forschungs- und Lehrkorpus Gesprochenes
-Deutsch* (FOLK) der DGD [(entnommen: Schmidt & Kaiser 2016: 3)](https://www.zotero.org/google-docs/?7utcRI)]
+Deutsch* (FOLK) der DGD [(entnommen: Schmidt & Kaiser 2016: 3)]
 
-#### 4.2.2.2 [TalkBank](https://talkbank.org/) [(MacWhinney & Wagner 2010)](https://www.zotero.org/google-docs/?0he85p)
-
+#### 4.2.2.2 [TalkBank](https://talkbank.org/) [(MacWhinney & Wagner 2010)]
 Die TalkBank ist eine Sammlung von Ressourcen und Software, darunter z. B. CHILDES (*Child Language Data Exchange
 System*), ein Korpus, das Sprachaufnahmen und Transkripte von Kindern in mehreren Sprachen verfügbar macht, und die
 Software CLAN (*Computerized Language ANalysis*), die speziell dafür entwickelt wurde, Daten zu analysieren, die im
 CHAT-Format (*Codes for the Human Analysis of Transcripts*) transkribiert
-wurden [(MacWhinney 2000)](https://www.zotero.org/google-docs/?ggoq8w). CLAN bietet Konversionsmöglichkeiten aus CHAT zu
+wurden [(MacWhinney 2000)]. CLAN bietet Konversionsmöglichkeiten aus CHAT zu
 einer Reihe von Annotations- und Analysesoftware, darunter auch EXMARaLDA und elan (s. u.).
 
 ![](12.png)
@@ -456,13 +455,13 @@ Startpunkt, um den Umgang mit dem System zu lernen.
 ![](13.png)
 [Partitur-Editor in EXMARaLDA]
 
-#### 4.2.2.4 [elan (Eudico Linguistik Annotator)](https://archive.mpi.nl/tla/elan/download): Videoannotation [(Wittenburg u. a. 2006)](https://www.zotero.org/google-docs/?bn1Wry)
+#### 4.2.2.4 [elan (Eudico Linguistik Annotator)](https://archive.mpi.nl/tla/elan/download): Videoannotation [(Wittenburg u.a. 2006)](https://www.zotero.org/google-docs/?bn1Wry)
 
 Elan ist für Audio- und Videotranskription geeignet und wurde vom Max-Planck-Institut für Psycholinguistik in Nijmegen
 entwickelt.
 
 ![](14.png)
-[Annotationsansicht in elan [(Wittenburg u. a. 2006: 1558)](https://www.zotero.org/google-docs/?5zHiaw)
+[Annotationsansicht in elan [(Wittenburg u.a. 2006: 1558)]
 
 ## 4.3 Automatische Text-Annotation auf Satz- und Wortebene
 
@@ -501,22 +500,23 @@ Korpusanalyse, "LINDAT Translation" bietet einen automatischen Übersetzungsserv
 automatischen Annotation verwendet werden. Zur Weiterverarbeitung durch eines der angebotenen Werkzeuge, klicken Sie
 auf "Open" und folgen den Instruktionen.
 
-#### #### 4.3.2.2 Linguistische Mehrebenen-Annotation und Visualisierung mit WebLicht [(Hinrichs u. a. 2010)](https://www.zotero.org/google-docs/?CXKoZ6)
+#### #### 4.3.2.2 Linguistische Mehrebenen-Annotation und Visualisierung mit WebLicht [(Hinrichs u.a. 2010)]
 
 Annotated corpora [...] contain information about the language data in the corpus part, information that represents a
 particular linguistic analysis. Thus, annotation is often debatable, because not everyone may subscribe to the theory or
-model on which the annotation is based. [(Gries 2009: 10)](https://www.zotero.org/google-docs/?ZIj5wS)
+model on which the annotation is based. [(Gries 2009: 10)]
 WebLicht ist ein Online-Service der Universität Tübingen im Rahmen der CLARIAH-Infrastruktur, der es ermöglicht, mehrere
 Annotationswerkzeuge hintereinanderzuschalten.
 
-| token  	| pos   	| lem- ma 	| Case 	| Gen-der 	| Mood 	| Number 	| Per- son 	| Tense 	| Verb Form 	| num 	| rel   	| topo 	|
+| token    | pos    | lem- ma    | Case    | Gen-der    | Mood    | Number    | Per- son    | Tense    | Verb Form    | num    | rel    | topo    |
 |--------	|-------	|---------	|------	|---------	|------	|--------	|----------	|-------	|-----------	|-----	|-------	|------	|
-| Karin  	| PROPN 	| Karin   	| Nom  	| Fem     	|      	| Sing   	|          	|       	|           	|  2  	| NSUBJ 	| VF   	|
-| fliegt 	| VERB  	| fliegen 	|      	|         	| Ind  	| Sing   	|     3    	| Pres  	| Fin       	|  1  	| ROOT  	| LK   	|
-| nach   	| ADP   	| nach    	| Dat  	|         	|      	|        	|          	|       	|           	|  4  	| CASE  	| MF   	|
-| New    	| PROPN 	| New     	| Dat  	| Neut    	|      	| Sing   	|          	|       	|           	|  3  	| OBL   	| MF   	|
-| York   	| PROPN 	| York    	| Dat  	| Neut    	|      	| Sing   	|          	|       	|           	|  5  	| FLAT  	| MF   	|
-| .      	| PUNCT 	| .       	|      	|         	|      	|        	|          	|       	|           	|  6  	| PUNCT 	| null 	|
+| Karin    | PROPN    | Karin    | Nom    | Fem        |      	| Sing    |          	|       	|           	|  2    | NSUBJ    | VF    |
+| fliegt    | VERB    | fliegen    |      	|         	| Ind    | Sing    |     3        | Pres    | Fin        |  1    | ROOT    | LK    |
+| nach    | ADP    | nach        | Dat    |         	|      	|        	|          	|       	|           	|  4    | CASE    | MF    |
+| New        | PROPN    | New        | Dat    | Neut        |      	| Sing    |          	|       	|           	|  3    | OBL    | MF    |
+| York    | PROPN    | York        | Dat    | Neut        |      	| Sing    |          	|       	|           	|  5    | FLAT    | MF    |
+| .        | PUNCT    | .        |      	|         	|      	|        	|          	|       	|           	|  6    | PUNCT    | null    |
+
 ![](18.png)
 [Analyse und Annotation des Satzes "Karin fliegt nach New York." mit der All-in-One-Option im WebLicht-"Easy Mode". Die Tabelle wurde direkt in WebLicht generiert.]
 
@@ -544,10 +544,10 @@ Nutzer und hinsichtlich der Bedienung.
 
 ### 4.4.2 Werkzeuge
 
-#### 4.4.2.1 WebAnno [(Eckart de Castilho u.a. 2016)](https://www.zotero.org/google-docs/?sxw3tC)
+#### 4.4.2.1 WebAnno [(Eckart de Castilho u.a. 2016)]
 
 ![](19.png)
-[Annotationsanzeige in WebAnno. Quelle: [(Eckart de Castilho u.a. 2014)](https://www.zotero.org/google-docs/?7oMMOW) ]
+[Annotationsanzeige in WebAnno. Quelle: [(Eckart de Castilho u.a. 2014)]
 
 [WebAnno](https://webanno.github.io/webanno/) ist eher auf die Erstellung von Gold-Standards ausgelegt und bietet z. B.
 die Möglichkeit, die Übereinstimmung bzw. Abweichung zwischen Annotationen desselben Textes durch mehrere Annotatoren zu
@@ -558,7 +558,7 @@ die Möglichkeit, Werkzeuge, z. B. WebLicht, für die automatische (Vor-) Annota
 ![](20.png)
 [[Startseite](https://webanno.sfs.uni-tuebingen.de/) der von der Universität Tübingen im Rahmen der CLARIAH / CLARIN-D-Infrastruktur gehosteten WebAnno-Instanz]
 
-#### #### 4.4.2.2 Catma [(Gius u. a. 2020)](https://www.zotero.org/google-docs/?JpcNC3)
+#### #### 4.4.2.2 Catma [(Gius u.a. 2020)]
 
 [CATMA](https://catma.de/) wurde ursprünglich für literaturwissenschaftliche Annotationen entwickelt und steht online
 zur Verfügung. Es erlaubt kollaboratives Arbeiten ebenso wie die Erstellung eigener Annotationsschemata mit mehreren
@@ -571,112 +571,139 @@ Ebenen.
 
 Buchholz, Sabine; Marsi, Erwin (2006): „CoNLL-X shared task on multilingual dependency parsing“. In: Proceedings of the
 tenth conference on computational natural language learning (CoNLL-X). New York City: Association for Computational
-Linguistics, S. 149–164, Abgerufen am
+Linguistics, S. 149–164, Abgerufen am 30.08.2021
 von[ https://www.aclweb.org/anthology/W06-2920](https://www.aclweb.org/anthology/W06-2920)
-[Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition,  (Version 4.3.0 vom 1. Februar 2021)“. Abgerufen am 30.08.2021 von http://weber-gesamtausgabe.de/A020001.](https://www.zotero.org/google-docs/?12LeVz)
-[Baker, Paul (2006): „„The question is, how cruel is it?“ Keywords, Foxhunting and the House of Commons“. 2006.](https://www.zotero.org/google-docs/?12LeVz)
-[Bender, Michael; Müller, Marcus (2020): „Heuristische Textpraktiken in den Wissenschaften: Eine kollaborative Annotationsstudie zum akademischen Diskurs“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Zeitschrift
-für germanistische Linguistik](https://www.zotero.org/google-docs/?12LeVz)*[ 48(1), S.
-1–46.](https://www.zotero.org/google-docs/?12LeVz)
-[Bohnenkamp-Renken, Anne (2002): „A1 Neugermanistische Editionswissenschaft“. In: Gabler, Hans Walter; Bohnenkamp-Renken, Anne (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Kompendium
-der Editionswissenschaft. Ein Handbuch zur historischen und systematischen Erschließung eines interdisziplinären
-Gegenstands](https://www.zotero.org/google-docs/?12LeVz)*[. Online-Ausgabe., München: Universität
-München.](https://www.zotero.org/google-docs/?12LeVz)
-[Brinker, Klaus; Antos, Gerd; Heinemann, Wolfgang; u. a. (Hrsg.) (2000): ](https://www.zotero.org/google-docs/?12LeVz)*[Text-
-und Gesprächslinguistik](https://www.zotero.org/google-docs/?12LeVz)*[. (= Handbücher zur Sprach- und
-Kommunikationswissenschaft 16,1) Berlin [u.a.]: de Gruyter.](https://www.zotero.org/google-docs/?12LeVz)
-[Brockman, William S.; Digital Library Federation (Hrsg.) (2001): ](https://www.zotero.org/google-docs/?12LeVz)*[Scholarly
-work in the humanities and the evolving information environment](https://www.zotero.org/google-docs/?12LeVz)*[. (=
-Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library
-and Information Resources.](https://www.zotero.org/google-docs/?12LeVz)
-[Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[The
-Cambridge Handbook of English Corpus Linguistics](https://www.zotero.org/google-docs/?12LeVz)*[. Cambridge University
-Press, S. 90–105.](https://www.zotero.org/google-docs/?12LeVz)
-[Deppermann, Arnulf (2008): ](https://www.zotero.org/google-docs/?12LeVz)*[Gespräche
-analysieren](https://www.zotero.org/google-docs/?12LeVz)*[. (= Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS
-Verl. für Sozialwiss.](https://www.zotero.org/google-docs/?12LeVz)
-[Deppermann, Arnulf; Habscheid, Stephan; Hartung, Martin; u. a. (2000): „Editorial: Was ist und was will GESPRÄCHSFORSCHUNG? Eine neue Zeitschrift stellt sich vor“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Gesprächsforschung
-- Online-Zeitschrift zur verbalen Interaktion](https://www.zotero.org/google-docs/?12LeVz)*[ 1(1), S.
-1–8.](https://www.zotero.org/google-docs/?12LeVz)
-[Eckart de Castilho, Richard; Biemann, Chris; Gurevych, Iryna; u. a. (2014): „WebAnno: a flexible, web-based annotation tool for CLARIN“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Proceedings
-of the CLARIN annual conference (CAC) 2014](https://www.zotero.org/google-docs/?12LeVz)*[. Utrecht, Netherlands: CLARIN
-ERIC, S. online, Citation Key: CLARIN-2014-WEBANNOpublisher-place: Soesterberg,
-Netherlandstex.pdf: www.clarin.eu/sites/default/files/cac2014ₛubmission₆₀.pdf ](https://www.zotero.org/google-docs/?12LeVz)[blanktex.website: https://www.clarin.eu/content/papers-posters-and-demos-cac2014 (
-Link: http://www.ukp.tu-darmstadt.de/ḧttps://www.clarin.eu/content/papers-posters-and-demos-cac2014̈ )
-.](https://www.zotero.org/google-docs/?12LeVz)
-[Eckart de Castilho, Richard; Mújdricza-Maydt, Éva; Yimam, Seid Muhie; u. a. (2016): „A web-based tool for the integrated annotation of semantic and syntactic structures“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Proceedings
-of the workshop on language technology resources and tools for digital humanities (
-LT4DH)](https://www.zotero.org/google-docs/?12LeVz)*[. Osaka, Japan: The COLING 2016 Organizing Committee, S. 76–84,
-Abgerufen am von https://www.aclweb.org/anthology/W16-4011, Citation Key:
-eckart-de-castilho-etal-2016-web.](https://www.zotero.org/google-docs/?12LeVz)
-[Galinski, Agathe (2004): „Zweierlei Perspektiven auf Gespräche: Ethnomethodologische Konversationsanalyse und Diskursanalyse im kontrastiven Vergleich“. LINSE - Linguistik Server Essen.](https://www.zotero.org/google-docs/?12LeVz)
-[Gius, Evelyn; Meister, Jan Christoph; Petris, Marco; u. a. (2020): ](https://www.zotero.org/google-docs/?12LeVz)*[CATMA](https://www.zotero.org/google-docs/?12LeVz)*[
-. Zenodo.](https://www.zotero.org/google-docs/?12LeVz)
-[Glück, Helmut; Rödel, Michael (Hrsg.) (2016): ](https://www.zotero.org/google-docs/?12LeVz)*[Metzler Lexikon
-Sprache](https://www.zotero.org/google-docs/?12LeVz)*[. (= SpringerLink : Bücher) 5. Aufl., Stuttgart: J.B. Metzler,
-Citation Key: UBHD-68045541 tex.library: UB.](https://www.zotero.org/google-docs/?12LeVz)
-[Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Language
-and Linguistics Compass](https://www.zotero.org/google-docs/?12LeVz)*[ 3(5), S.
-1–17.](https://www.zotero.org/google-docs/?12LeVz)
-[Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Proceedings
-of the ACL 2010 System Demonstrations](https://www.zotero.org/google-docs/?12LeVz)*[. S. 25–29, Abgerufen am
-von http://www.aclweb.org/anthology/P10-4005.](https://www.zotero.org/google-docs/?12LeVz)
-[IDS Mannheim (2014): ](https://www.zotero.org/google-docs/?12LeVz)*[Datenbank für gesprochenes Deutsch
-DGD](https://www.zotero.org/google-docs/?12LeVz)*[.](https://www.zotero.org/google-docs/?12LeVz)
-[MacWhinney, Brian (2000): ](https://www.zotero.org/google-docs/?12LeVz)*[The CHILDES Project: Tools for Analyzing
-Talk.](https://www.zotero.org/google-docs/?12LeVz)*[ 3. Aufl., Mahwah, NJ: Lawrence Erlbaum
-Associates.](https://www.zotero.org/google-docs/?12LeVz)
-[MacWhinney, Brian; Wagner, Johannes (2010): „Transcribing, searching and data sharing: The CLAN software and the TalkBank data repository.“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Gesprächsforschung
-- Online-Zeitschrift zur verbalen Interaktion](https://www.zotero.org/google-docs/?12LeVz)*[ (11), S.
-154–173.](https://www.zotero.org/google-docs/?12LeVz)
-[Meister, Jan Christoph (2015): „All dressed up and nowhere to go? The strategic role of digital humanities annotation tools“. Warburg-Haus, 30.10.2015.](https://www.zotero.org/google-docs/?12LeVz)
-[National Information Standards Organization (U.S.) (2004): ](https://www.zotero.org/google-docs/?12LeVz)*[Understanding
-metadata.](https://www.zotero.org/google-docs/?12LeVz)*[ Bethesda, MD: NISO
-Press.](https://www.zotero.org/google-docs/?12LeVz)
-[Neuroth, Heike; Neuroth, Heike; Rapp, Andrea; Söring, Sibylle (Hrsg.): (2015): „TextGrid: Von der Community - für die Community: Eine virtuelle Forschungsumgebung für die Geisteswissenschaften“. In: Düsseldorf ; vwh, W. Hülsbusch [Printversion] in Kooperation mit dem Universitätsverlag Göttingen [Onlineversion], S. 350 p.](https://www.zotero.org/google-docs/?12LeVz)
-[Nutt-Kofoth, Rüdiger (2012): „Sichten – Perspektiven auf Text“. In: Bohnenkamp-Renken, Anne (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Medienwandel
-/ Medienwechsel in der Editionswissenschaft](https://www.zotero.org/google-docs/?12LeVz)*[. Berlin, Boston: DE GRUYTER,
-S. 19–29.](https://www.zotero.org/google-docs/?12LeVz)
-[Plachta, Bodo (2013): ](https://www.zotero.org/google-docs/?12LeVz)*[Editionswissenschaft : Eine Einführung in Methode
-und Praxis der Edition neuerer Texte](https://www.zotero.org/google-docs/?12LeVz)*[. (= Reclams universal-bibliothek
-17603) 3. ergänzte und aktualisierte Auflage., Stuttgart: Reclam.](https://www.zotero.org/google-docs/?12LeVz)
-[Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u. a. (2004): ](https://www.zotero.org/google-docs/?12LeVz)*[Handbuch
-für das computergestütze Transkribieren nach HIAT](https://www.zotero.org/google-docs/?12LeVz)*[. (= Arbeiten zur
-Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.](https://www.zotero.org/google-docs/?12LeVz)
-[Schmidt, Thomas (2004): „EXMARaLDA - ein modellierungs- und visualisierungsverfahren für die computergestützte transkription gesprochener sprache“. In: Buchberger, Ernst (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Proceedings
-of konvens 2004](https://www.zotero.org/google-docs/?12LeVz)*[. (= 5) Abgerufen am
-von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key:
-Schmidt2004.](https://www.zotero.org/google-docs/?12LeVz)
-[Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache Mannheim.](https://www.zotero.org/google-docs/?12LeVz)
-[Schmunk, Stefan; Reiche, Ruth; Schöch, Christof; u. a.; Blümm, Mirjam; Schmunk, Stefan; Schöch, Christof (Hrsg.): (2014): „Verfahren der digital humanities in den geistes- und kulturwissenschaften“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[DARIAH-DE
-Working-Papers 4](https://www.zotero.org/google-docs/?12LeVz)*[ 4, S. 1–35, Citation Key:
-article.](https://www.zotero.org/google-docs/?12LeVz)
-[Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Dokumente
-zur Geschichte der neugermanistischen Edition](https://www.zotero.org/google-docs/?12LeVz)*[. (= Bausteine zur
-Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der
-Edition.](https://www.zotero.org/google-docs/?12LeVz)
-[Selting, Margret (1995): ](https://www.zotero.org/google-docs/?12LeVz)*[Prosodie im Gespräch: Aspekte einer
-interaktionalen Phonologie der Konversation](https://www.zotero.org/google-docs/?12LeVz)*[. (= Linguistische Arbeiten
-ARRAY(0x55d602f55848)) Tübingen: Zugl.: Oldenburg, Univ., Habil.-Schr.,
-1991.](https://www.zotero.org/google-docs/?12LeVz)
-[Selting, Margret; Auer, Peter; Deppermann, Arnulf; Hartung, Martin (Hrsg.): (2009): „Gesprächsanalytisches Transkriptionssystem 2 (GAT 2)“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Gesprächsforschung
-- Online-Zeitschrift zur verbalen Interaktion](https://www.zotero.org/google-docs/?12LeVz)*[ (10), S.
-353–402.](https://www.zotero.org/google-docs/?12LeVz)
-[Sidnell, Jack (Hrsg.) (2013): ](https://www.zotero.org/google-docs/?12LeVz)*[The handbook of conversation
-analysis](https://www.zotero.org/google-docs/?12LeVz)*[. (= Blackwell handbooks in linguistics) Malden, Mass.:
-Wiley-Blackwell.](https://www.zotero.org/google-docs/?12LeVz)
-[Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Wolframs
-parzival-roman im europäischen kontext : Tübinger kolloqium 2012](https://www.zotero.org/google-docs/?12LeVz)*[. (=
-Veröffentlichungen der wolfram-von-eschenbach-gesellschaft 23) Berlin.](https://www.zotero.org/google-docs/?12LeVz)
-[Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.  Eine überlieferungskritische Ausgabe in digitaler Form.“. ](https://www.zotero.org/google-docs/?12LeVz)*[Parzival-Projekt](https://www.zotero.org/google-docs/?12LeVz)*[
-Abgerufen am 30.08.2021 von https://www.parzival.unibe.ch/home.html.](https://www.zotero.org/google-docs/?12LeVz)
-[Suphan, Bernhard (2005): „Vorreden zur Weimarer Goethe-Ausgabe, Bd. 1 (1887)“. In: Nutt-Kofoth, Rüdiger (Hrsg.): ](https://www.zotero.org/google-docs/?12LeVz)*[Dokumente
-zur Geschichte der neugermanistischen Edition](https://www.zotero.org/google-docs/?12LeVz)*[. (= Bausteine zur
-Geschichte der Edition 1) Tübingen: Niemeyer, collection-title: Bausteine zur Geschichte der
-Edition.](https://www.zotero.org/google-docs/?12LeVz)
-[Unsworth, John (2000): „Scholarly Primitives: what methods do humanities researchers have in common, and how might our tools reflect this?“. London, 13.5.2000.](https://www.zotero.org/google-docs/?12LeVz)
-[Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u. a. (2006): „ELAN: a professional framework for multimodality research“. In: ](https://www.zotero.org/google-docs/?12LeVz)*[Proceedings
-of the fifth international conference on language resources and evaluation (
-LREC’06)](https://www.zotero.org/google-docs/?12LeVz)*[. Genoa, Italy: European Language Resources Association (ELRA),
-Abgerufen am von http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf, Citation Key:
-wittenburg-etal-2006-elan.](https://www.zotero.org/google-docs/?12LeVz)
+
+Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition, (Version 4.3.0 vom 1. Februar 2021)“.
+Abgerufen am 30.08.2021 [von http://weber-gesamtausgabe.de/A020001.]
+
+Baker, Paul (2006): „„The question is, how cruel is it?“ [Keywords, Foxhunting and the House of Commons“. 2006.]
+
+Bender, Michael; Müller, Marcus (2020): „Heuristische Textpraktiken in den Wissenschaften: Eine kollaborative
+Annotationsstudie zum akademischen Diskurs“.
+In: [Zeitschrift für germanistische Linguistik 48(1), S. 1–46.]
+
+Bohnenkamp-Renken, Anne (2002): „A1 Neugermanistische Editionswissenschaft“. In: Gabler, Hans Walter; Bohnenkamp-Renken,
+Anne (Hrsg.): Kompendium der Editionswissenschaft. Ein Handbuch zur historischen und systematischen Erschließung eines
+interdisziplinären
+Gegenstands[. Online-Ausgabe., München: Universität München.]
+
+Brinker, Klaus; Antos, Gerd; Heinemann, Wolfgang; u.a. (Hrsg.) (2000): [Text- und
+Gesprächslinguistik. [= Handbücher zur Sprach- und Kommunikationswissenschaft 16,1) Berlin [u.a.]: de Gruyter.]
+
+Brockman, William S.; Digital Library Federation (Hrsg.) (2001): Scholarly work in the humanities and the evolving
+information
+environment. [Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library and Information Resources.]
+
+Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): [The Cambridge Handbook of English Corpus Linguistics. Cambridge University
+Press, S. 90–105.]
+
+Deppermann, Arnulf (2008): Gespräche
+analysieren.[Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS Verl. für Sozialwiss.]
+
+Deppermann, Arnulf; Habscheid, Stephan; Hartung, Martin; u.a. (2000): „Editorial: Was ist und was will
+GESPRÄCHSFORSCHUNG? Eine neue Zeitschrift stellt sich vor“.
+In:[Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion 1(1), S. 1–8.]
+
+Eckart de Castilho, Richard; Biemann, Chris; Gurevych, Iryna; u.a. (2014): „WebAnno: a flexible, web-based annotation
+tool for CLARIN“. In: [Proceedings of the CLARIN annual conference (CAC) 2014 Utrecht,
+Netherlands: CLARIN ERIC, S. online]
+
+Eckart de Castilho, Richard; Mújdricza-Maydt, Éva; Yimam, Seid Muhie; u.a. (2016): „A web-based tool for the integrated
+annotation of semantic and syntactic structures“. In: [Proceedings
+of the workshop on language technology resources and tools for digital humanities]. Osaka, Japan: The COLING 2016
+Organizing Committee, S. 76–84, Abgerufen am 30.08.2021 von 
+
+Galinski, Agathe (2004): „Zweierlei Perspektiven auf Gespräche: Ethnomethodologische Konversationsanalyse und
+Diskursanalyse im kontrastiven
+Vergleich“. [LINSE - Linguistik Server Essen.]
+
+Gius, Evelyn; Meister, Jan Christoph; Petris, Marco; u.a. (2020): [CATMA]
+
+Glück, Helmut; Rödel, Michael (Hrsg.) (2016): Metzler Lexikon Sprache. (= SpringerLink : Bücher) 5. Aufl., Stuttgart:
+J.B. Metzler, Citation Key: UBHD-68045541 tex.library: [UB.]
+
+Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“.
+In: [Language and Linguistics Compass 3(5), S. 1–17.]
+
+Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In:
+Proceedings of the ACL 2010 System Demonstrations. S. 25–29, Abgerufen am 30.08.2021 von
+
+IDS Mannheim (2014): [Datenbank für gesprochenes Deutsch DGD]
+
+MacWhinney, Brian (2000):[The CHILDES Project: Tools for Analyzing Talk.] 3.
+Aufl., Mahwah, NJ: Lawrence Erlbaum Associates.
+
+MacWhinney, Brian; Wagner, Johannes (2010): „Transcribing, searching and data sharing: The CLAN software and the
+TalkBank data repository.“. In: ]*[Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion (11), S. 154–173.]
+
+Meister, Jan Christoph (2015): „All dressed up and nowhere to go? The strategic role of digital humanities annotation
+tools“. Warburg-Haus, 30.10.2015.]
+
+National Information Standards Organization (U.S.) (
+2004): [Understanding metadata. Bethesda, MD: NISO Press.]
+
+Neuroth, Heike; Neuroth, Heike; Rapp, Andrea; Söring, Sibylle (Hrsg.): (2015): „TextGrid: Von der Community - für die
+Community: Eine virtuelle Forschungsumgebung für die Geisteswissenschaften“. In: Düsseldorf; vwh, W. Hülsbusch
+Printversion in Kooperation mit dem Universitätsverlag
+Göttingen [Onlineversion, S. 350 p.]
+
+Nutt-Kofoth, Rüdiger (2012): „Sichten – Perspektiven auf Text“. In: Bohnenkamp-Renken, Anne (
+Hrsg.):[Medienwandel / Medienwechsel in der Editionswissenschaft. Berlin, Boston: DE GRUYTER, S. 19–29.]
+
+Plachta, Bodo (2013): Editionswissenschaft : Eine Einführung in Methode und Praxis der Edition neuerer Texte. Reclams
+universal-bibliothek 3. ergänzte und aktualisierte
+Auflage.,Stuttgart: [Reclam.]
+
+Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u.a. (
+2004): [Handbuch für das computergestütze Transkribieren nach HIAT]. (=
+Arbeiten zur Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.
+
+Schmidt, Thomas (2004): „EXMARaLDA - ein Modellierungs- und visualisierungsverfahren für die computergestützte
+transkription gesprochener sprache“. In: Buchberger, Ernst (
+Hrsg.): [Proceedings
+of konvens 2004. (= 5) Abgerufen am von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key:
+Schmidt2004.]
+
+Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische
+Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache
+Mannheim.
+
+Schmunk, Stefan; Reiche, Ruth; Schöch, Christof; u.a.; Blümm, Mirjam; Schmunk, Stefan; Schöch, Christof (Hrsg.): (2014):
+„Verfahren der digital humanities in den geistes- und kulturwissenschaften“.
+In: [DARIAH-DE
+Working-Papers 4]
+
+Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (
+Hrsg.): [Dokumente zur Geschichte der neugermanistischen Edition]. (=
+Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der
+Edition.
+
+Selting, Margret (1995):[Prosodie im Gespräch: Aspekte einer interaktionalen Phonologie der Konversation]*[. (= Linguistische Arbeiten ARRAY(0x55d602f55848))
+Tübingen: Zugl.: Oldenburg, Univ., Habil.-Schr.,1991.
+
+Selting, Margret; Auer, Peter; Deppermann, Arnulf; Hartung, Martin (Hrsg.): (2009): „Gesprächsanalytisches
+Transkriptionssystem 2 (GAT 2)“. In: [Gesprächsforschung - Online-Zeitschrift zur verbalen Interaktion (10), S. 353–402.
+
+Sidnell, Jack (Hrsg.) (2013):[The handbook of conversation analysis] (= Blackwell handbooks in linguistics) Malden, Mass.: Wiley-Blackwell.
+
+Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung
+und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): Wolframs
+parzival-roman im europäischen kontext : Tübinger kolloqium 2012. (= Veröffentlichungen der
+wolfram-von-eschenbach-gesellschaft 23) Berlin.
+
+Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.Eine überlieferungskritische Ausgabe in
+digitaler Form.“ [Parzival-Projekt]
+Abgerufen am 30.08.2021 von [https://www.parzival.unibe.ch/home.html.]
+
+Suphan, Bernhard (2005): „Vorreden zur Weimarer Goethe-Ausgabe, Bd. 1 (1887)“. In: Nutt-Kofoth, Rüdiger (Hrsg.):
+Dokumente zur Geschichte der neugermanistischen Edition. (= Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer,
+collection-title: [Bausteine zur Geschichte der Edition.]
+
+Unsworth, John (2000): „Scholarly Primitives: what methods do humanities researchers have in common, and how might our
+tools reflect this?“. London, 13.5.2000.
+
+Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u.a. (2006): „ELAN: a professional framework for multimodality
+research“. In:Proceedings of the fifth international conference on language resources and evaluation (
+LREC’06). Genoa, Italy: European Language Resources Association (ELRA), Abgerufen am 30.08.2021
+von [http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf, ]
