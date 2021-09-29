@@ -572,10 +572,11 @@ Ebenen.
 Buchholz, Sabine; Marsi, Erwin (2006): „CoNLL-X shared task on multilingual dependency parsing“. In: Proceedings of the
 tenth conference on computational natural language learning (CoNLL-X). New York City: Association for Computational
 Linguistics, S. 149–164, Abgerufen am 30.08.2021
-von[ https://www.aclweb.org/anthology/W06-2920](https://www.aclweb.org/anthology/W06-2920)
+von [Association for Computational
+Linguistics](https://www.aclweb.org/anthology/W06-2920)
 
-Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition, (Version 4.3.0 vom 1. Februar 2021)“.
-Abgerufen am 30.08.2021 [von http://weber-gesamtausgabe.de/A020001.]
+Allroggen, Gerhard (2011): „Carl-Maria-von-Weber-Gesamtausgabe. Digitale Edition, (ersion 4.3.0 vom 1. Februar 2021)“.
+Abgerufen am 30.08.2021 [von Carl-Maria-von-Weber-Gesamtausgabe](http://weber-gesamtausgabe.de/A020001.)
 
 Baker, Paul (2006): „„The question is, how cruel is it?“ [Keywords, Foxhunting and the House of Commons“. 2006.]
 
@@ -595,8 +596,8 @@ Brockman, William S.; Digital Library Federation (Hrsg.) (2001): Scholarly work 
 information
 environment. [Optimizing collections and services for scholarly use) Washington, D.C: Digital Library Federation, Council on Library and Information Resources.]
 
-Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): [The Cambridge Handbook of English Corpus Linguistics. Cambridge University
-Press, S. 90–105.]
+Demmen, Jane Elizabeth; Culpeper, Jonathan Vaughan (2015): „Keywords“. In: Biber, Douglas; Reppen, Randi (Hrsg.): The Cambridge Handbook of English Corpus Linguistics. Cambridge University
+Press, S. 90–105.
 
 Deppermann, Arnulf (2008): Gespräche
 analysieren.[Qualitative Sozialforschung 3) 4. Aufl., Wiesbaden: VS Verl. für Sozialwiss.]
@@ -627,9 +628,7 @@ Gries, Stefan Thomas (2009): „What is Corpus Linguistics?“.
 In: [Language and Linguistics Compass 3(5), S. 1–17.]
 
 Hinrichs, Erhard W.; Hinrichs, Marie; Zastrow, Thomas (2010): „WebLicht: Web-Based LRT Services for German“. In:
-Proceedings of the ACL 2010 System Demonstrations. S. 25–29, Abgerufen am 30.08.2021 von
-
-IDS Mannheim (2014): [Datenbank für gesprochenes Deutsch DGD]
+Proceedings of the ACL 2010 System Demonstrations. S. 25–29, Abgerufen am 30.08.2021 von IDS Mannheim (2014): [Datenbank für gesprochenes Deutsch DGD]
 
 MacWhinney, Brian (2000):[The CHILDES Project: Tools for Analyzing Talk.] 3.
 Aufl., Mahwah, NJ: Lawrence Erlbaum Associates.
@@ -660,10 +659,8 @@ Rehbein, Jochen; Schmidt, Thomas; Meyer, Bernd; u.a. (
 Arbeiten zur Mehrsprachigkeit - Folge B) Hamburg: Sonderforschungsbereich 538.
 
 Schmidt, Thomas (2004): „EXMARaLDA - ein Modellierungs- und visualisierungsverfahren für die computergestützte
-transkription gesprochener sprache“. In: Buchberger, Ernst (
-Hrsg.): [Proceedings
-of konvens 2004. (= 5) Abgerufen am von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key:
-Schmidt2004.]
+transkription gesprochener sprache“. In: Buchberger, Ernst (Hrsg.): Proceedings of konvens 2004. (= 5) Abgerufen am 30.08.202 von http://www.exmaralda.org/files/Konvens_Paper.pdf, Citation Key:
+Schmidt2004.
 
 Schmidt, Thomas; Kaiser, Julia (2016): „Einführung in die Benutzung der Ressourcen DGD und FOLK für gesprächsanalytische
 Zwecke. Handreichung: Einfache Recherche-Anfragen als Übungs-Beispiele“. IDS. Institut für deutsche Sprache
@@ -675,8 +672,7 @@ In: [DARIAH-DE
 Working-Papers 4]
 
 Seiffert, Hans Werner (2005): „Edition (1956/58)“. In: Nutt-Kofoth, Rüdiger (
-Hrsg.): [Dokumente zur Geschichte der neugermanistischen Edition]. (=
-Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der
+Hrsg.): [Dokumente zur Geschichte der neugermanistischen Edition]. (=Bausteine zur Geschichte der Edition 1) Tübingen: Niemeyer, S. 162–173, collection-title: Bausteine zur Geschichte der
 Edition.
 
 Selting, Margret (1995):[Prosodie im Gespräch: Aspekte einer interaktionalen Phonologie der Konversation]*[. (= Linguistische Arbeiten ARRAY(0x55d602f55848))
@@ -688,8 +684,7 @@ Transkriptionssystem 2 (GAT 2)“. In: [Gesprächsforschung - Online-Zeitschrift
 Sidnell, Jack (Hrsg.) (2013):[The handbook of conversation analysis] (= Blackwell handbooks in linguistics) Malden, Mass.: Wiley-Blackwell.
 
 Stolz, Michael (2014): „Chretiens ,Roman de Perceval ou le Conte du Graal’ und Wolframs .Parzival’. Ihre Überlieferung
-und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): Wolframs
-parzival-roman im europäischen kontext : Tübinger kolloqium 2012. (= Veröffentlichungen der
+und textkritische Erschließung“. In: Ridder, Klaus (Hrsg.): Wolframs parzival-roman im europäischen kontext : Tübinger kolloqium 2012. (= Veröffentlichungen der
 wolfram-von-eschenbach-gesellschaft 23) Berlin.
 
 Stolz, Michael (2021): „Parzival-Projekt. Wolfram von Eschenbach, ›Parzival‹.Eine überlieferungskritische Ausgabe in
@@ -706,4 +701,4 @@ tools reflect this?“. London, 13.5.2000.
 Wittenburg, Peter; Brugman, Hennie; Russel, Albert; u.a. (2006): „ELAN: a professional framework for multimodality
 research“. In:Proceedings of the fifth international conference on language resources and evaluation (
 LREC’06). Genoa, Italy: European Language Resources Association (ELRA), Abgerufen am 30.08.2021
-von [http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf, ]
+von [http://www.lrec-conf.org/proceedings/lrec2006/pdf/153ₚdf.pdf]
