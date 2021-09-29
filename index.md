@@ -172,30 +172,15 @@ Kategorienbildung im Sinne der Erstellung eines Kategoriensystems, zum anderen e
 Kategorien in den annotierten Daten explizit zu machen. Vorhandene Kategorien können sich auf alle Dimensionen von Text
 beziehen, zum Beispiel:
 
-| Beispiel | Dimension der Zusatzinformation | Bezugsgröße | Beispiel für Kategoriensystem | 
-| --- | --- | --- | --- |
-| * Autor eines Werks
-* Veröffentlichungsdatum eines Werks | bibliographisch | konkretes physisches oder nativ digitales Objekt | [Dublin Core](https://www.dublincore.org/):
-
-* *[creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/creator/)*
-* *[date](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/date/)*
-  [TEI](https://tei-c.org/) P5
-* *[author](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)*
-* *[date](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html)* | | * Kapitel
-* Zeilenumbruch | formale Struktur | Text | TEI:
-* [div-Element mit Attribut type= "chapter"](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html)
-* [lb-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-lb.html) | | * Pergament
-* zerrissene Seite | materiale Beschaffenheit | konkretes physisches Objekt | TEI:
-* [material-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-objectDesc.html)
-* [condition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-condition.html) | | * verzierte Initiale
-* Schriftfarbe | ästhetische Beschaffenheit | konkretes physisches oder nativ digitales Objekt | TEI:
-* [decoNote-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-decoNote.html)
-* [rendition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-rendition.html) | | * Exposition,
-  Konflikt, Klimax | Erzählstruktur | Text | TEI:
-* [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP) | |
-  * Protagonist | Figurenanalyse | Text | TEI:
-* [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP) |
-  [mögliche Annotationskategorien; unvollständige Beispielliste]
+| Beispiel                                                | Dimension der Zusatzinformation | Bezugsgröße                                      | Beispiel für Kategoriensystem                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------------------------------------------|---------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Autor eines Werks<br>Veröffentlichungsdatum eines Werks | bibliographisch                 | konkretes physisches oder nativ digitales Objekt | [Dublin Core](https://www.dublincore.org/):<br><br>* _[creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/creator/)_<br>* _[date](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/date/)_<br><br>[TEI](https://tei-c.org/) P5<br><br>* _[author](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html)_<br>* _[date](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html)_ |
+| Kapitel<br>Zeilenumbruch                                | formale Struktur                | Text                                             | TEI:<br><br>* [div-Element mit Attribut type= "chapter"](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html)<br>* [lb-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-lb.html)                                                                                                                                                                                                                                               |
+| Pergament<br>zerrissene Seite                           | materiale Beschaffenheit        | konkretes physisches Objekt                      | TEI:<br><br>* [material-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-objectDesc.html)<br>* [condition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-condition.html)                                                                                                                                                                                                                                                  |
+| verzierte Initiale<br>Schriftfarbe                      | ästhetische Beschaffenheit      | konkretes physisches oder nativ digitales Objekt | TEI:<br><br>* [decoNote-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-decoNote.html)<br>* [rendition-Element](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/ref-rendition.html)                                                                                                                                                                                                                                                    |
+| Exposition, Konflikt, Klimax                            | Erzählstruktur                  | Text                                             | TEI:<br><br>* [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                                              |
+| Protagonist                                             | Figurenanalyse                  | Text                                             | TEI:<br><br>* [spanGrp-, span-Element mit Verweis auf xml:id](https://www.tei-c.org/release/doc/tei-p5-doc/de/html/AI.html#AISP)                                                                                                                                                                                                                                                                                                                              |
+[mögliche Annotationskategorien; unvollständige Beispielliste]
 
 ### 3.2.1 Kategorienbildung durch Annotation
 
